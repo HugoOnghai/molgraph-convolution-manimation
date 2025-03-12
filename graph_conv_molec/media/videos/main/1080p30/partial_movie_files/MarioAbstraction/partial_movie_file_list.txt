@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ongha/OneDrive/Documents/UCLA/2024-2025/Winter 2025/ML4MSE/FINAL_PROJECT/graph_conv_molec/media/videos/main/1080p30/partial_movie_files/MarioAbstraction/233493676_1988078779_223132457.mp4'
+file 'file:C:/Users/ongha/OneDrive/Documents/UCLA/2024-2025/Winter 2025/ML4MSE/FINAL_PROJECT/graph_conv_molec/media/videos/main/1080p30/partial_movie_files/MarioAbstraction/2676061449_3146877161_2840600550.mp4'
+file 'file:C:/Users/ongha/OneDrive/Documents/UCLA/2024-2025/Winter 2025/ML4MSE/FINAL_PROJECT/graph_conv_molec/media/videos/main/1080p30/partial_movie_files/MarioAbstraction/2676061449_470230361_560148074.mp4'
+file 'file:C:/Users/ongha/OneDrive/Documents/UCLA/2024-2025/Winter 2025/ML4MSE/FINAL_PROJECT/graph_conv_molec/media/videos/main/1080p30/partial_movie_files/MarioAbstraction/2676061449_1870511264_129036505.mp4'
+file 'file:C:/Users/ongha/OneDrive/Documents/UCLA/2024-2025/Winter 2025/ML4MSE/FINAL_PROJECT/graph_conv_molec/media/videos/main/1080p30/partial_movie_files/MarioAbstraction/2676061449_3146877161_1389776651.mp4'
+file 'file:C:/Users/ongha/OneDrive/Documents/UCLA/2024-2025/Winter 2025/ML4MSE/FINAL_PROJECT/graph_conv_molec/media/videos/main/1080p30/partial_movie_files/MarioAbstraction/2676061449_3048819798_1967692178.mp4'

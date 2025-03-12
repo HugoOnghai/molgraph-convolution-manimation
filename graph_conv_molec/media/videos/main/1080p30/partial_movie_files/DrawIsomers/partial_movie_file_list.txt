@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ongha/OneDrive/Documents/UCLA/2024-2025/Winter 2025/ML4MSE/FINAL_PROJECT/graph_conv_molec/media/videos/main/1080p30/partial_movie_files/DrawIsomers/233493676_205204894_223132457.mp4'
+file 'file:C:/Users/ongha/OneDrive/Documents/UCLA/2024-2025/Winter 2025/ML4MSE/FINAL_PROJECT/graph_conv_molec/media/videos/main/1080p30/partial_movie_files/DrawIsomers/2676061449_3146877161_2867525162.mp4'
+file 'file:C:/Users/ongha/OneDrive/Documents/UCLA/2024-2025/Winter 2025/ML4MSE/FINAL_PROJECT/graph_conv_molec/media/videos/main/1080p30/partial_movie_files/DrawIsomers/2676061449_1284102638_3708176031.mp4'
+file 'file:C:/Users/ongha/OneDrive/Documents/UCLA/2024-2025/Winter 2025/ML4MSE/FINAL_PROJECT/graph_conv_molec/media/videos/main/1080p30/partial_movie_files/DrawIsomers/2676061449_3146877161_1340963450.mp4'
+file 'file:C:/Users/ongha/OneDrive/Documents/UCLA/2024-2025/Winter 2025/ML4MSE/FINAL_PROJECT/graph_conv_molec/media/videos/main/1080p30/partial_movie_files/DrawIsomers/2676061449_2003092969_3252939095.mp4'
